@@ -1,7 +1,7 @@
 <h1 align="center">
   LAN Socket Chat App
 </h1>
-<p align="center">Create a server for group-based.</p>
+<p align="center">A group-based chat application using Java and Socket.</p>
 
 # ⚡️ Quick start
 
