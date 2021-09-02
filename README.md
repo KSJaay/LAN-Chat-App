@@ -9,15 +9,14 @@ First of all, [download](https://golang.org/dl/) and install **Java**. Version `
 
 Once both are installed, download the repository and open it using NetBeans.
 
+### ServerPanel GUI
 From the `Server` folder launch `ServerPanel.java`. The GUI provides information about server port, connected users, connection requests, messages, and disconnected users.
 
-### ServerPanel GUI
-
-
-Once the server is live, users can connect using the `GUI.java` from the `Client` folder. This GUI allows the users to input an ID (must be unique) and name, then connect to the server. Once connected users can send messages in the group chat.
 
 ### User connect GUI
+Once the server is live, users can connect using the `GUI.java` from the `Client` folder. This GUI allows the users to input an ID (must be unique) and name, then connect to the server.
 
 ### User message GUI
+After that users can use the application to send messages to all users connected to the server.
 
 ## Data Architecture Diagram
