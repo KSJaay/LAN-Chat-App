@@ -5,7 +5,7 @@
 
 ## ⚡️ Quick start
 
-First of all, [download](https://golang.org/dl/) and install **Java**. Version `8.0` or higher is required, along with [NetBeans](https://netbeans.apache.org/download/index.html). 
+First of all, [download](https://java.com/en/download/help/download_options.html) and install **Java**. Version `8.0` or higher is required, along with [NetBeans](https://netbeans.apache.org/download/index.html). 
 
 Once both are installed, download the repository and open it using NetBeans.
 
